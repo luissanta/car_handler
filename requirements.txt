@@ -1,0 +1,5 @@
+SQLAlchemy
+PyQt5
+coverage
+Faker
+faker-vehicle
