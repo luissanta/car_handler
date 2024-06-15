@@ -31,7 +31,7 @@ class Dialogo_crear_mantenimiento(QDialog):
         else:
             titulo="Editar mantenimiento"
 
-        self.setWindowTitle("Auto-perfecto - {}".format(titulo))
+        self.setWindowTitle("Cars - {}".format(titulo))
        
         #Creación de las etiquetas y los campos de texto
 

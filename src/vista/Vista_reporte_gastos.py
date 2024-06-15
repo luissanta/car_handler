@@ -15,7 +15,7 @@ class Vista_reporte_gastos(QWidget):
         super().__init__()
 
         # Se establecen las características de la ventana
-        self.titulo = 'Auto-perfecto - Reporte de gastos'
+        self.titulo = 'Cars - Reporte de gastos'
         self.left = 80
         self.top = 80
         self.width = 400

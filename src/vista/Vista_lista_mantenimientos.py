@@ -15,7 +15,7 @@ class Vista_lista_mantenimientos(QWidget):
         super().__init__()
 
         # Se establecen las características de la ventana
-        self.titulo = 'Auto-perfecto mantenimientos'
+        self.titulo = 'Cars mantenimientos'
         self.interfaz = interfaz
 
         self.width = 400

@@ -16,7 +16,7 @@ class Vista_lista_acciones(QWidget):
         super().__init__()
 
         # Se establecen las características de la ventana
-        self.titulo = 'Auto-perfecto - Acciones de mantenimiento del auto'
+        self.titulo = 'Cars - Acciones de mantenimiento del auto'
         self.width = 720
         self.height = 560
 

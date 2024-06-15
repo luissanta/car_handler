@@ -18,7 +18,7 @@ class Vista_lista_autos(QWidget):
         self.interfaz=interfaz
        
         # Se establecen las características de la ventana
-        self.title = 'Auto-perfecto'
+        self.title = 'Cars'
         self.width = 720
         self.height = 600
         self.inicializar_GUI()
@@ -41,7 +41,7 @@ class Vista_lista_autos(QWidget):
         self.distribuidor_base.addWidget(self.logo,alignment=Qt.AlignCenter)
 
         #Creación de las etiquetsa con textos de bienvenida
-        self.etiqueta_bienvenida=QLabel("!!Bienvenido a Auto-perfecto!!")
+        self.etiqueta_bienvenida=QLabel("!Bienvenido a Cars!")
         self.etiqueta_bienvenida.setAlignment(Qt.AlignCenter)
         self.distribuidor_base.addWidget(self.etiqueta_bienvenida, Qt.AlignCenter)
         
