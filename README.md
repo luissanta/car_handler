@@ -27,8 +27,8 @@ Para poner en marcha esta aplicación, sigue los siguientes pasos:
 1. **Clona este repositorio:**
 
     ```bash
-    git clone https://github.com/tuusuario/cars.git
-    cd cars
+    git clone https://github.com/luissanta/car_handler.git
+    cd car_handler
     ```
 
 2. **Crea un entorno virtual e instálalo:**
@@ -39,11 +39,7 @@ Para poner en marcha esta aplicación, sigue los siguientes pasos:
     pip install -r requirements.txt
     ```
 
-3. **Configura la base de datos:**
-
-    Asegúrate de tener una base de datos configurada y actualiza el archivo `config.py` con tus credenciales de base de datos.
-
-4. **Ejecuta la aplicación:**
+3. **Ejecuta la aplicación:**
 
     ```bash
     python main.py
